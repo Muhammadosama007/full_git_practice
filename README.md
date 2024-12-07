@@ -1,2 +1,2 @@
 # full_git_practice
-Author: Muhammad Osama
+Author: Muhammad Osama.
